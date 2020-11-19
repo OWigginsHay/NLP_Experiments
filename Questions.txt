@@ -1,0 +1,9 @@
+Is your name Oliver-Is your name Danny-Is your name Jess,1-0-0
+Are you 20 years old-Are you 20-Are you old-are you 14,1-1-0-0
+Is your hair red-Are your Ginger-Are you blonde-Do you have short hair,1-1-0-0
+Are you a woman-Are you a man-are you male-Are you female,0-1-1-0
+Are you from Bristol-Are you from London-Do you live in Brighton-Do you live in Bristol,1-0-0-1
+You make music as a hobby-You make music-Do you make pies-Do you make films,1-1-0-0
+Are you an engineer-You work with software-You're a software engineer-You're a plumber-You work in the army,1-1-1-0-0
+Are you smart-Are you dumb-are you intelligent-you are not very intelligent,1-0-1-0
+Is there a river nearby-Do you know any rivers-Do you know any mountains, 1-1-0
